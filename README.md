@@ -1,6 +1,6 @@
-# Export MySQL & MariaDB schema dumps to Amazon S3
+# Export Amazon RDS for MySQL and MariaDB databases to Amazon S3
 
-This GitHub repository is used by the AWS Blog: ExportMySQL & MariaDB schema dumps to Amazon S3. For guidance on how to use this, check the official blog post.
+This GitHub repository is used by the AWS Blog: Export Amazon RDS for MySQL and MariaDB databases to Amazon S3. For guidance on how to use this, check the [official blog post](https://aws.amazon.com/blogs/database/export-amazon-rds-for-mysql-and-mariadb-databases-to-amazon-s3/).
 
 # Pre-requisites
 
